@@ -1,0 +1,122 @@
+body{
+	padding:1px;
+	margin:10px;
+	font: 17px 'Monserat', sans-serif;
+    background-color: rgb(17, 22, 33);
+
+}
+
+
+h1,h2,h3,h4,h5,h6,p{
+	padding:0px;
+	margin:0px;
+}
+
+
+a{
+	color:orange;
+	text-decoration:none;
+}
+
+#topline{
+    outline: 4px solid rgb(176, 177, 208);
+    height:60px;
+    margin-bottom: 50px;
+    background-color: rgb(4, 33, 58);
+}
+#topnavig{
+    outline: 4px solid rgb(176, 177, 208);
+    height:inherit;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+    background-color: rgb(4, 33, 58);
+}
+
+#wrapper{
+    width: 70%;
+    margin: auto;
+}
+
+#slidebar{
+    outline: 4px solid rgb(176, 177, 208);
+    min-height: 750px;
+    width: 1000px;
+    margin-bottom: 50px;
+    margin-left: 115px;
+    background-color: rgb(4, 33, 58);
+    
+}
+
+#kaz{
+    width: 1000;
+    height: 650;
+}
+
+#contwrap{
+    outline: 4px solid rgb(176, 177, 208);
+    min-height: 700px;
+    margin-bottom: 50px;
+}
+#content{
+    outline: 4px solid rgb(176, 177, 208);
+    width: 70%;
+    min-height: inherit;
+    float: left;
+    background-color: rgb(4, 33, 58);
+}
+#sidebar{
+    outline: 4px solid rgb(176, 177, 208);
+    width: 30%;
+    min-height: inherit;
+    float: right;
+    background-color: rgb(4, 33, 58);
+    height: 500px;
+}
+#brandnavig{
+    outline: 4px solid rgb(176, 177, 208);
+    min-height: 400px;
+    margin-bottom: 50px;
+    background-color: rgb(4, 33, 58);
+}
+#footer{
+    outline: 4px solid rgb(176, 177, 208);
+    height:80px;
+    background-color: rgb(4, 33, 58);
+}
+
+#Lyver{
+    color: white;
+    
+}
+#Lyver2{
+    color: white;
+    margin-top: 8px;
+    
+}
+#Lyver{
+    color: white;
+    
+}
+#Lyver{
+    color: white;
+    
+}
+#Lyver{
+    color: white;
+    
+}
+
+#ul{
+    color: white
+}
+
+#h1{
+    color: white;
+    margin-left: 5px;
+}
+
+#Ychyk{
+    margin-left: 100px;
+}
+
